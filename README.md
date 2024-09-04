@@ -9,7 +9,7 @@ Check out our website:<br>
 ### Project Manager / Mobile
 - [Tristen Robinson](https://github.com/tristen-robinson-ucf)
 ### API
-- [Batman Yousuf](https://github.com/shinobi-404)
+- [Areeb/Batman Yousuf](https://github.com/shinobi-404)
 ### Database
 - [Asher Watkins](https://github.com/asher12353)
 ### Front End
